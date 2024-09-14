@@ -42,6 +42,7 @@ Las siguientes condiciones son requisitos mínimos necesarios para la aprobació
 - **Cumplir con todas las funcionalidades obligatorias**
 - Solo se podrán utilizar las librerías que se detallan en este README. Ver [Dependencias](docs/desarrollo.md#dependencias)
 - No se considerará realizada cualquier funcionalidad que sea implementada utilizando una librería distinta a las permitidas.
+
 - Deberá ser desarrollada utilizando Javascript con React.js como libreria.
 - Se espera que la página de Contacto, contenga los flujos de validación necesarios (minimo 2 validaciones), para un correcto submit del formulario.
 - En los casos en que se requiera dar estilos a componentes, deberá realizarse teniendo en cuenta el theme del contexto global.
